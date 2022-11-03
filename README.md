@@ -1,24 +1,23 @@
-twm-travel-journal
 
-
-##Travel Journal
+## Travel Journal
 
 This was a tech demo I put together to gain better familiarity with React and Typescript in particular.
 
 Link to project: https://twm-travel-journal.netlify.app
 
+![image](https://user-images.githubusercontent.com/85075266/199637606-818138b1-37e2-4480-b1f3-3fa52bd8395a.png)
 
 
-#How It's Made:
+# How It's Made:
 Tech used: HTML, CSS, JavaScript, React, Typescript, Vite, Netlify CLI
 
 The basic premise of the site is quite simple, it's just a react front end mapping over an array of objects containing travel information.
 
-#Optimizations
+# Optimizations
 
 I structured the project with vite so I could benefit from it's enhanced developer experience and structure.  I used typescript to give me better stability and to be able to strictly type the model for the location information. I packaged the project with vite and deployed it to netlify using their excellent CLI.
 
-#Lessons Learned:
+# Lessons Learned:
 Putting the react components together was straight forward, the difficulty I had was with making typescript play ball.  This is kind of the point with typescript, rather than spending your time debugging afterwards, you spend your time setting up in advance with little to no problems after the fact. 
 
 The two main problems typescript had were with the model itself and with exporting the data file as a module to be imported to the react components.
@@ -31,7 +30,7 @@ The two main problems typescript had were with the model itself and with exporti
 
 Despite the extra time it took to set up with typescript - I felt it was well worth it.
 
-Examples:
+# Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
 Digital Business Card: https://github.com/TheWoodenMan/twm-business-card - This was one of the first Typescript/React projects I did.
