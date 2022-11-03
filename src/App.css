@@ -1,0 +1,23 @@
+#root {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Inter", sans-serif;
+	width: 100%;
+}
+
+div.App {
+	width: 100%;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+}
+div.navWrapper {
+	height: 10%;
+}
+
+div.locations {
+	margin: 0 10%;
+}

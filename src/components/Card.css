@@ -1,0 +1,62 @@
+section.Card {
+	height: 45vh;
+	padding: 1%;
+	display: flex;
+}
+
+div.imageContainer {
+	width: 25%;
+	height: 100%;
+	padding: 2.5%;
+	border-radius: 5%;
+}
+
+img {
+	width: 100%;
+	object-fit: contain;
+	border-radius: 5%;
+	margin: 5%;
+}
+
+div.textContainer {
+	width: 75%;
+	height: 100%;
+	padding: 5%;
+	margin: 5% 0 0 0;
+	text-align: left;
+}
+
+h2.title {
+}
+
+span.locationLinks {
+	font-style: bold;
+	color: #918e9b;
+	text-transform: uppercase;
+}
+
+span.arrowIcon {
+	color: #f55a5a;
+}
+
+span.location {
+	color: #000000;
+	letter-spacing: 0.17em;
+}
+
+a:visited,
+a:link,
+a:hover {
+	text-decoration: none;
+	color: #918e9b;
+	text-transform: none;
+	text-decoration: underline #918e9b;
+}
+
+span.dateRange {
+	font-weight: bold;
+}
+
+p.description {
+	font-style: italic;
+}
