@@ -7,10 +7,6 @@ Link to project: https://twm-travel-journal.netlify.app
 
 ![image](https://user-images.githubusercontent.com/85075266/199637606-818138b1-37e2-4480-b1f3-3fa52bd8395a.png)
 
-
-# How It's Made:
-Tech used: HTML, CSS, JavaScript, React, Typescript, Vite, Netlify CLI
-
 # How It's Made:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
